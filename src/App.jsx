@@ -1,17 +1,19 @@
-import React from 'react';
-import { BrowserRouter, Routes, Route } from 'react-router-dom';
-import Layout from '@layouts/Layout';
-import HomePage from '@pages/HomePage';
-import SermonsPage from '@pages/SermonsPage';
-import LifeGroupsPage from '@pages/LifeGroupsPage';
-import MinistriesPage from '@pages/MinistriesPage';
-import ContactPage from '@pages/ContactPage';
-import BibleStudyPage from '@pages/BibleStudyPage';
-import MealPage from '@pages/MealPage';
-import ScrollToTop from '@components/ScrollToTop';
-import MusicPage from '@pages/MusicPage';
-import NextGenPage from '@pages/NextGenPage';
-import SitemapPage from '@pages/SiteMapPage';
+import ScrollToTop from "@components/ScrollToTop";
+import Layout from "@layouts/Layout";
+import BibleStudyPage from "@pages/BibleStudyPage";
+import ContactPage from "@pages/ContactPage";
+import HomePage from "@pages/HomePage";
+import LifeGroupsPage from "@pages/LifeGroupsPage";
+import MealPage from "@pages/MealPage";
+import MinistriesPage from "@pages/MinistriesPage";
+import MusicPage from "@pages/MusicPage";
+import NextGenPage from "@pages/NextGenPage";
+import SermonsPage from "@pages/SermonsPage";
+import SitemapPage from "@pages/SiteMapPage";
+import WorshipPage from "@pages/WorshipPage";
+import GivePage from "./pages/GivePage";
+
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 
 // Placeholder for remaining pages
 const PagePlaceholder = ({ title }) => (
@@ -38,8 +40,9 @@ export default function App() {
           <Route path="*" element={<HomePage />} />
           <Route path="nextgen" element={<NextGenPage />} />
           <Route path="sitemap" element={<SitemapPage />} />
+          <Route path="worship" element={<WorshipPage />} />
+          <Route path="give" element={<GivePage />} />
         </Route>
-
       </Routes>
     </BrowserRouter>
   );

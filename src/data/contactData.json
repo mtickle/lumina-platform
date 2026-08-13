@@ -32,7 +32,8 @@
             "role": "Senior Pastor",
             "email": "adam@gracetruth.org",
             "phone": "(555) 123-4561",
-            "phoneRaw": "5551234561"
+            "phoneRaw": "5551234561",
+            "image": "/staff/adam.png"
         },
         {
             "id": "david-jones",
@@ -40,7 +41,8 @@
             "role": "Associate Pastor",
             "email": "david@gracetruth.org",
             "phone": "(555) 123-4562",
-            "phoneRaw": "5551234562"
+            "phoneRaw": "5551234562",
+            "image": "/staff/david.png"
         },
         {
             "id": "sarah-jenkins",
@@ -48,7 +50,8 @@
             "role": "Youth Ministry Leader",
             "email": "youth@gracetruth.org",
             "phone": "(555) 123-4563",
-            "phoneRaw": "5551234563"
+            "phoneRaw": "5551234563",
+            "image": "/staff/sarah.png"
         },
         {
             "id": "emily-carter",
@@ -56,7 +59,8 @@
             "role": "Children's Ministry Leader",
             "email": "kids@gracetruth.org",
             "phone": "(555) 123-4564",
-            "phoneRaw": "5551234564"
+            "phoneRaw": "5551234564",
+            "image": "/staff/emily.png"
         },
         {
             "id": "michael-taylor",
@@ -64,7 +68,8 @@
             "role": "Praise Team Leader",
             "email": "worship@gracetruth.org",
             "phone": "(555) 123-4565",
-            "phoneRaw": "5551234565"
+            "phoneRaw": "5551234565",
+            "image": "/staff/michael.png"
         },
         {
             "id": "linda-white",
@@ -72,7 +77,8 @@
             "role": "Church Secretary",
             "email": "admin@gracetruth.org",
             "phone": "(555) 123-4566",
-            "phoneRaw": "5551234566"
+            "phoneRaw": "5551234566",
+            "image": "/staff/linda.png"
         }
     ]
 }

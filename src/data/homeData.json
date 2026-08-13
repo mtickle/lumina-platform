@@ -41,9 +41,9 @@
                 },
                 {
                     "time": "10:30",
-                    "title": "Worship Service (Promotion Sunday)",
+                    "title": "Worship Service",
                     "location": "Sanctuary",
-                    "link": "/sermons"
+                    "link": "/worship"
                 }
             ]
         },
@@ -123,6 +123,6 @@
             "We are a vibrant and welcoming community dedicated to loving God and serving our neighbors. Our mission is to provide a safe and nurturing environment where individuals and families can grow spiritually while building lasting relationships.",
             "Founded on the principles of grace and truth, we believe in the power of community to transform lives. Join us as we journey together in faith, hope, and love. Everyone has a story, and we would love to be a part of yours."
         ],
-        "imageSrc": "/art.png"
+        "image": "/public/main.png"
     }
 }

@@ -19,7 +19,8 @@
                 "activity": "Worship and Study in the Loft"
             }
         ],
-        "imagePlaceholderText": "Youth Group Image Placeholder"
+        "imagePlaceholderText": "Youth Group Image Placeholder",
+        "image": "/public/youth.png"
     },
     "childrenPrograms": [
         {

@@ -1,0 +1,44 @@
+{
+    "hero": {
+        "title": "Sunday Worship Service",
+        "description": "A time to gather, lift our voices in praise, and center our hearts on the truth of God's Word. Everyone is welcome here."
+    },
+    "experience": {
+        "title": "The Worship Experience",
+        "paragraphs": [
+            "When you walk into the Sanctuary on a Sunday morning, you will find a warm, welcoming community ready to worship together. Come exactly as you are. Whether you have been attending church your whole life or this is your very first time, you have a place to belong.",
+            "Our service begins with vibrant, heartfelt music. The Praise Team and Choir lead us through carefully crafted song arrangements featuring dynamic vocals, acoustic guitars, and keyboards. We blend contemporary worship songs with timeless hymns to create a deep and engaging time of praise.",
+            "Following our time of musical worship, Pastor Adam shares a biblical, practical, and encouraging message designed to help us grow in our faith and apply the Gospel to our daily lives."
+        ],
+        "duration": {
+            "title": "Service Duration",
+            "text": "Our services typically last about 75 minutes."
+        }
+    },
+    "childrensChurch": {
+        "title": "Children's Church",
+        "intro": "We love having families worship together! We have designed a special flow for our kids so they can experience the main service and get teaching tailored just for them.",
+        "steps": [
+            {
+                "id": 1,
+                "title": "Kidville Check-In",
+                "description": "Kids arrive and check in at Kidville before the service begins."
+            },
+            {
+                "id": 2,
+                "title": "Family Worship",
+                "description": "They come up to the Sanctuary to join everyone for opening music, praise, and prayer."
+            },
+            {
+                "id": 3,
+                "title": "Lesson Time",
+                "description": "Right before the sermon, kids are dismissed to their age-appropriate classes for an engaging lesson."
+            },
+            {
+                "id": 4,
+                "title": "Closing Prayers",
+                "description": "They return to the Sanctuary to rejoin their families for closing prayers and dismissal."
+            }
+        ]
+    }
+}
