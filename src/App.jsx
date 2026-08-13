@@ -7,6 +7,11 @@ import LifeGroupsPage from '@pages/LifeGroupsPage';
 import MinistriesPage from '@pages/MinistriesPage';
 import ContactPage from '@pages/ContactPage';
 import BibleStudyPage from '@pages/BibleStudyPage';
+import MealPage from '@pages/MealPage';
+import ScrollToTop from '@components/ScrollToTop';
+import MusicPage from '@pages/MusicPage';
+import NextGenPage from '@pages/NextGenPage';
+import SitemapPage from '@pages/SiteMapPage';
 
 // Placeholder for remaining pages
 const PagePlaceholder = ({ title }) => (
@@ -19,6 +24,7 @@ const PagePlaceholder = ({ title }) => (
 export default function App() {
   return (
     <BrowserRouter basename={import.meta.env.BASE_URL}>
+      <ScrollToTop />
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<HomePage />} />
@@ -27,7 +33,11 @@ export default function App() {
           <Route path="ministries" element={<MinistriesPage />} />
           <Route path="contact" element={<ContactPage />} />
           <Route path="biblestudy" element={<BibleStudyPage />} />
+          <Route path="meal" element={<MealPage />} />
+          <Route path="music" element={<MusicPage />} />
           <Route path="*" element={<HomePage />} />
+          <Route path="nextgen" element={<NextGenPage />} />
+          <Route path="sitemap" element={<SitemapPage />} />
         </Route>
 
       </Routes>

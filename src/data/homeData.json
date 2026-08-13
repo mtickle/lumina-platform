@@ -54,25 +54,25 @@
                     "time": "5:30",
                     "title": "Family Meal",
                     "location": "Large Fellowship Hall",
-                    "link": "/contact"
+                    "link": "/meal"
                 },
                 {
                     "time": "6:30",
                     "title": "RAs (Royal Ambassadors)",
                     "location": "Small Fellowship Hall",
-                    "link": "/ministries"
+                    "link": "/nextgen"
                 },
                 {
                     "time": "6:30",
                     "title": "GAs (Girls in Action)",
                     "location": "Room 234",
-                    "link": "/ministries"
+                    "link": "/nextgen"
                 },
                 {
                     "time": "6:30",
                     "title": "Youth Group",
                     "location": "The Loft",
-                    "link": "/ministries"
+                    "link": "/nextgen"
                 },
                 {
                     "time": "6:30",
@@ -84,13 +84,13 @@
                     "time": "7:30",
                     "title": "Choir Practice",
                     "location": "Sanctuary",
-                    "link": "/ministries"
+                    "link": "/music"
                 },
                 {
                     "time": "8:30",
                     "title": "Praise Team Practice",
                     "location": "Sanctuary",
-                    "link": "/ministries"
+                    "link": "/music"
                 }
             ]
         }

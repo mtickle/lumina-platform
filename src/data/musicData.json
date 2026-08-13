@@ -1,0 +1,68 @@
+{
+    "hero": {
+        "title": "Music Ministry",
+        "description": "Making a joyful noise and leading our congregation in authentic, heartfelt worship every single week."
+    },
+    "groups": [
+        {
+            "id": "praise-team",
+            "title": "Praise Team",
+            "iconType": "music",
+            "description": "Our Praise Team leads the congregation in modern, contemporary worship. Featuring a full band and dedicated vocalists, this group focuses on upbeat praise and deep, reflective worship songs that connect with all generations.",
+            "rehearsal": "Wednesdays at 8:30 PM in the Sanctuary"
+        },
+        {
+            "id": "sanctuary-choir",
+            "title": "Sanctuary Choir",
+            "iconType": "users",
+            "description": "The Sanctuary Choir honors the rich history of church music by blending beautiful four-part harmonies, classic hymns, and powerful choral arrangements. It is a wonderful community of believers who love to sing together.",
+            "rehearsal": "Wednesdays at 7:30 PM in the Sanctuary"
+        },
+        {
+            "id": "handbell-choir",
+            "title": "Handbell Choir",
+            "iconType": "users",
+            "description": "Our handbell choir adds a rich, celebratory layer to special worship services throughout the year. Performing intricate arrangements with precision and grace, this close-knit ensemble prepares dedicated music for holiday seasons and special appearances. Music reading or previous instrument experience is greatly appreciated!",
+            "rehearsal": "Monthly on 1st Tuesdays at 7:00 PM in Room 204"
+        },
+        {
+            "id": "soundboard-team",
+            "title": "Soundboard Team",
+            "iconType": "cogs",
+            "description": "The Soundboard Team is responsible for mixing and managing the audio during worship services. This team ensures that every voice and instrument is heard clearly, creating an immersive worship experience for the congregation.",
+            "rehearsal": "As needed, with training provided"
+        },
+        {
+            "id": "instrumentalists",
+            "title": "Instrumentalists",
+            "iconType": "music",
+            "description": "We welcome instrumentalists of all skill levels to join our music ministry. Whether you play the piano, guitar, drums, or any other instrument, your talents can enhance our worship services and bring joy to our congregation.",
+            "rehearsal": "As needed, with training provided"
+        },
+        {
+            "id": "mensensemble",
+            "title": "Mens Ensemble",
+            "iconType": "users",
+            "description": "Our mens ensemble is a group of dedicated men who lead worship through song. We welcome singers of all ranges and styles to join our ensemble, helping to create a powerful and uplifting worship experience.",
+            "rehearsal": "Thursdays at 7:30 PM in Room 204"
+        }
+    ],
+    "cta": {
+        "title": "Come Sing With Us!",
+        "description": "Are you looking for a place to serve? We are always welcoming new voices and musicians.",
+        "emphasis": "Absolutely no experience is needed!",
+        "details": "Whether you love to sing, play the keyboards, or want to learn how to mix audio at the soundboard, there is a spot for you here.",
+        "schedules": [
+            {
+                "title": "Wednesday Nights",
+                "info": "Choir: 7:30 PM\nPraise Team: 8:30 PM"
+            },
+            {
+                "title": "Sunday Mornings",
+                "info": "Full team soundcheck at 8:15 AM sharp in the Sanctuary."
+            }
+        ],
+        "buttonText": "Join the Team",
+        "contactEmail": "worship@gracetruth.org"
+    }
+}

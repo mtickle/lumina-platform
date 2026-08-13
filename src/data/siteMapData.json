@@ -1,0 +1,111 @@
+{
+    "hero": {
+        "title": "Site Map",
+        "description": "A complete overview of our website structure and navigation."
+    },
+    "sections": [
+        {
+            "id": "main",
+            "title": "Main Pages",
+            "iconType": "home",
+            "links": [
+                {
+                    "title": "Home",
+                    "path": "/",
+                    "subItems": [
+                        "New Here / Welcome",
+                        "Church News",
+                        "Upcoming Events Schedule",
+                        "About Our Community"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "worship",
+            "title": "Worship & Messages",
+            "iconType": "play",
+            "links": [
+                {
+                    "title": "Sunday Worship Service",
+                    "path": "/sermons"
+                },
+                {
+                    "title": "Sermons Archive",
+                    "path": "/sermons"
+                },
+                {
+                    "title": "Music Ministry",
+                    "path": "/music"
+                }
+            ]
+        },
+        {
+            "id": "connect",
+            "title": "Connect & Grow",
+            "iconType": "users",
+            "links": [
+                {
+                    "title": "Life Groups",
+                    "path": "/lifegroups"
+                },
+                {
+                    "title": "Next Generation",
+                    "path": "/nextgen",
+                    "subItems": [
+                        "Youth Ministry",
+                        "Royal Ambassadors (RAs)",
+                        "Girls in Action (GAs)"
+                    ]
+                },
+                {
+                    "title": "Wednesday Family Meal",
+                    "path": "/meal"
+                },
+                {
+                    "title": "Adult Bible Study",
+                    "path": "/biblestudy"
+                }
+            ]
+        },
+        {
+            "id": "outreach",
+            "title": "Ministries Outreach",
+            "iconType": "heart",
+            "links": [
+                {
+                    "title": "All Ministries Overview",
+                    "path": "/ministries",
+                    "subItems": [
+                        "Food Pantry",
+                        "Ramp Building",
+                        "Veterans Ministry",
+                        "Ministerio Hispano",
+                        "Homebound & Shut-Ins",
+                        "Prison Ministry"
+                    ]
+                }
+            ]
+        },
+        {
+            "id": "contact-section",
+            "title": "Contact & Info",
+            "iconType": "mail",
+            "links": [
+                {
+                    "title": "Contact Us",
+                    "path": "/contact",
+                    "subItems": [
+                        "Office Hours & Location",
+                        "Senior Pastor",
+                        "Associate Pastor",
+                        "Youth Ministry Leader",
+                        "Children's Leader",
+                        "Praise Team Leader",
+                        "Church Secretary"
+                    ]
+                }
+            ]
+        }
+    ]
+}

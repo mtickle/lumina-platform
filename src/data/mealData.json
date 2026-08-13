@@ -1,0 +1,48 @@
+{
+    "hero": {
+        "title": "Wednesday Family Meal",
+        "description": "Join us around the table for great food and wonderful fellowship before our evening activities begin."
+    },
+    "intro": {
+        "title": "Dinner is Served",
+        "paragraphs": [
+            "We believe some of the best conversations and deepest connections happen over a shared meal. Every Wednesday night, our dedicated kitchen team prepares a delicious, home-cooked dinner for the entire church family.",
+            "Whether you are a long-time member or a first-time guest, there is a seat saved just for you. Come straight from work or school, relax, and let us take care of the cooking."
+        ]
+    },
+    "details": [
+        {
+            "id": "when",
+            "label": "When",
+            "value": "Wednesdays at 5:30 PM",
+            "icon": "clock"
+        },
+        {
+            "id": "where",
+            "label": "Where",
+            "value": "Large Fellowship Hall",
+            "icon": "location"
+        },
+        {
+            "id": "cost",
+            "label": "Cost",
+            "value": "Suggested donation of $5 per person, or $15 max per family. First-time guests eat free!",
+            "icon": "currency"
+        }
+    ],
+    "menu": {
+        "title": "This Week's Menu",
+        "mainCourse": "Baked Ziti with Italian Sausage",
+        "sides": [
+            "Caesar Salad",
+            "Garlic Knots"
+        ],
+        "dessert": "Assorted Homemade Brownies",
+        "drinks": "Sweet Tea, Lemonade, and Water"
+    },
+    "volunteer": {
+        "title": "Join the Kitchen Team",
+        "description": "It takes a lot of hands to feed our church family! If you have a passion for cooking, setting up, or even just washing dishes, we would love to have you on the rotation.",
+        "buttonText": "Volunteer to Help"
+    }
+}

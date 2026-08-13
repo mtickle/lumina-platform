@@ -1,0 +1,40 @@
+{
+    "hero": {
+        "title": "Next Generation Ministries",
+        "description": "Equipping our youth and children to know Jesus, grow in faith, and serve the community."
+    },
+    "youth": {
+        "badge": "Grades 7 to 12",
+        "title": "Youth Ministry",
+        "description": "Our youth ministry provides a welcoming space for teenagers to explore their faith, ask tough questions, and build lasting friendships. We meet weekly for worship, teaching, and small group discussions designed specifically for middle and high school students.",
+        "schedule": [
+            {
+                "id": "sun",
+                "day": "Sundays at 9:15 AM",
+                "activity": "Life Groups"
+            },
+            {
+                "id": "wed",
+                "day": "Wednesdays at 6:30 PM",
+                "activity": "Worship and Study in the Loft"
+            }
+        ],
+        "imagePlaceholderText": "Youth Group Image Placeholder"
+    },
+    "childrenPrograms": [
+        {
+            "id": "ras",
+            "badge": "Boys Grades 1 to 6",
+            "title": "Royal Ambassadors (RAs)",
+            "description": "Royal Ambassadors is a dynamic missions discipleship group. Boys learn about the world, discover how to serve Christ, and participate in hands-on activities that build character and leadership skills.",
+            "timeLocation": "Wednesdays at 6:30 PM in the Main Building"
+        },
+        {
+            "id": "gas",
+            "badge": "Girls Grades 1 to 6",
+            "title": "Girls in Action (GAs)",
+            "description": "Girls in Action focuses on teaching girls how to live a missional lifestyle. Through engaging stories, collaborative projects, and fellowship, girls grow in their faith and learn how they can make a positive impact in their community.",
+            "timeLocation": "Wednesdays at 6:30 PM in the Main Building"
+        }
+    ]
+}
