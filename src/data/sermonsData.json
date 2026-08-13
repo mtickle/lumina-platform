@@ -1,0 +1,35 @@
+{
+    "hero": {
+        "title": "Sermons & Messages",
+        "description": "Catch up on recent messages, re-watch your favorites, and explore our current teaching series."
+    },
+    "featuredSermon": {
+        "id": "feat-1",
+        "date": "Sunday, Aug 2, 2026",
+        "title": "The Power of Community",
+        "speaker": "Pastor Adam Smith",
+        "scripture": "Acts 2:42-47",
+        "summary": "In this week's message, we explore the foundations of the early church and discover how authentic community is essential for spiritual growth and reaching our neighbors.",
+        "duration": "45:20"
+    },
+    "recentSermons": [
+        {
+            "id": "rec-1",
+            "date": "July 26, 2026",
+            "title": "Living with Purpose",
+            "speaker": "Pastor Adam Smith"
+        },
+        {
+            "id": "rec-2",
+            "date": "July 19, 2026",
+            "title": "Grace in the Valley",
+            "speaker": "Rev. David Jones"
+        },
+        {
+            "id": "rec-3",
+            "date": "July 12, 2026",
+            "title": "Foundations of Faith",
+            "speaker": "Pastor Adam Smith"
+        }
+    ]
+}

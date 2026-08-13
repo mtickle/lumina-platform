@@ -1,0 +1,128 @@
+{
+    "newHere": {
+        "title": "New Here?",
+        "paragraphs": [
+            "Welcome! We are so glad you found us. Whether you are exploring faith for the first time or looking for a new church home, there is a place for you here. Come exactly as you are.",
+            "We have dedicated, secure environments for infants through 5th grade during all Sunday services. Our background-checked volunteers are ready to help you at the Kids Check-In desk as soon as you arrive.",
+            "We are easily accessible from Raleigh, Wendell, Clayton, or Zebulon. When you pull into the lot, look for the reserved First-Time Guest parking right near the main entrance.",
+            "Let our welcome team know that you are a first-time guest. We have a free gift for you and a team ready to answer any questions, show you around, or just say hello!"
+        ],
+        "buttonText": "Plan Your Visit"
+    },
+    "news": [
+        {
+            "id": "1",
+            "date": "August 15, 2026",
+            "title": "Fall Festival Volunteers Needed",
+            "summary": "Our annual Fall Festival is just around the corner! We need volunteers to help run game booths, serve food, and manage the welcome tents. Sign up in the lobby this Sunday."
+        },
+        {
+            "id": "2",
+            "date": "August 10, 2026",
+            "title": "New Life Groups Starting",
+            "summary": "Looking to get connected? A new cycle of Life Groups kicks off next month. Browse our available groups online and find the perfect fit for your schedule and stage of life."
+        },
+        {
+            "id": "3",
+            "date": "August 2, 2026",
+            "title": "Building Fund Update",
+            "summary": "Thank you for your incredible generosity! We have reached 80% of our goal for the new roof installation. Progress updates will be shared at the upcoming Business Meeting."
+        }
+    ],
+    "recurringEvents": [
+        {
+            "dayHeading": "This Sunday - August 9, 2026",
+            "events": [
+                {
+                    "time": "9:15",
+                    "title": "Life Groups, Youth & Children",
+                    "location": "Various Rooms",
+                    "link": "/lifegroups"
+                },
+                {
+                    "time": "10:30",
+                    "title": "Worship Service (Promotion Sunday)",
+                    "location": "Sanctuary",
+                    "link": "/sermons"
+                }
+            ]
+        },
+        {
+            "dayHeading": "This Wednesday - August 12, 2026",
+            "events": [
+                {
+                    "time": "5:30",
+                    "title": "Family Meal",
+                    "location": "Large Fellowship Hall",
+                    "link": "/contact"
+                },
+                {
+                    "time": "6:30",
+                    "title": "RAs (Royal Ambassadors)",
+                    "location": "Small Fellowship Hall",
+                    "link": "/ministries"
+                },
+                {
+                    "time": "6:30",
+                    "title": "GAs (Girls in Action)",
+                    "location": "Room 234",
+                    "link": "/ministries"
+                },
+                {
+                    "time": "6:30",
+                    "title": "Youth Group",
+                    "location": "The Loft",
+                    "link": "/ministries"
+                },
+                {
+                    "time": "6:30",
+                    "title": "Pastor Adam's Bible Study",
+                    "location": "Large Fellowship Hall",
+                    "link": "/biblestudy"
+                },
+                {
+                    "time": "7:30",
+                    "title": "Choir Practice",
+                    "location": "Sanctuary",
+                    "link": "/ministries"
+                },
+                {
+                    "time": "8:30",
+                    "title": "Praise Team Practice",
+                    "location": "Sanctuary",
+                    "link": "/ministries"
+                }
+            ]
+        }
+    ],
+    "specialEvents": [
+        {
+            "id": "sp1",
+            "title": "Promotion Sunday",
+            "datetime": "Sunday, Aug 9th at 10:30 AM"
+        },
+        {
+            "id": "sp2",
+            "title": "Community Outreach",
+            "datetime": "Sunday, Aug 15th at 10:30 AM"
+        },
+        {
+            "id": "sp3",
+            "title": "Quarterly Business Meeting",
+            "datetime": "Saturday, Aug 29th at 5 PM"
+        },
+        {
+            "id": "sp4",
+            "title": "Communion Service",
+            "datetime": "Sunday, Aug 30th at 10:30 AM"
+        }
+    ],
+    "about": {
+        "title": "About Our Community",
+        "paragraphs": [
+            "We are a vibrant and welcoming community dedicated to loving God and serving our neighbors. Our mission is to provide a safe and nurturing environment where individuals and families can grow spiritually while building lasting relationships.",
+            "Founded on the principles of grace and truth, we believe in the power of community to transform lives. Join us as we journey together in faith, hope, and love. Everyone has a story, and we would love to be a part of yours."
+        ],
+        "imageSrc": "/art.png"
+    }
+}

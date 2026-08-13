@@ -1,0 +1,78 @@
+{
+    "hero": {
+        "title": "Contact Our Team",
+        "description": "We are here to help, listen, and pray with you. Reach out to our staff or stop by the office."
+    },
+    "office": {
+        "title": "Main Office",
+        "address": "1234 Grace Boulevard, Wendell, NC 27591",
+        "phone": "(555) 123-4567",
+        "phoneRaw": "5551234567",
+        "email": "hello@gracetruth.org",
+        "hours": [
+            {
+                "days": "Mon - Thu:",
+                "time": "9:00 AM to 4:00 PM"
+            },
+            {
+                "days": "Friday:",
+                "time": "9:00 AM to 12:00 PM"
+            },
+            {
+                "days": "Saturday:",
+                "time": "Closed",
+                "highlight": true
+            }
+        ]
+    },
+    "staff": [
+        {
+            "id": "adam-smith",
+            "name": "Dr. Adam Smith",
+            "role": "Senior Pastor",
+            "email": "adam@gracetruth.org",
+            "phone": "(555) 123-4561",
+            "phoneRaw": "5551234561"
+        },
+        {
+            "id": "david-jones",
+            "name": "Rev. David Jones",
+            "role": "Associate Pastor",
+            "email": "david@gracetruth.org",
+            "phone": "(555) 123-4562",
+            "phoneRaw": "5551234562"
+        },
+        {
+            "id": "sarah-jenkins",
+            "name": "Sarah Jenkins",
+            "role": "Youth Ministry Leader",
+            "email": "youth@gracetruth.org",
+            "phone": "(555) 123-4563",
+            "phoneRaw": "5551234563"
+        },
+        {
+            "id": "emily-carter",
+            "name": "Emily Carter",
+            "role": "Children's Ministry Leader",
+            "email": "kids@gracetruth.org",
+            "phone": "(555) 123-4564",
+            "phoneRaw": "5551234564"
+        },
+        {
+            "id": "michael-taylor",
+            "name": "Michael Taylor",
+            "role": "Praise Team Leader",
+            "email": "worship@gracetruth.org",
+            "phone": "(555) 123-4565",
+            "phoneRaw": "5551234565"
+        },
+        {
+            "id": "linda-white",
+            "name": "Linda White",
+            "role": "Church Secretary",
+            "email": "admin@gracetruth.org",
+            "phone": "(555) 123-4566",
+            "phoneRaw": "5551234566"
+        }
+    ]
+}

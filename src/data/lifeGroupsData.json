@@ -1,0 +1,65 @@
+{
+    "hero": {
+        "title": "Life Groups",
+        "description": "Big churches can feel overwhelming. Life Groups are where we shrink the room, and dive deep into scripture together. Every Sunday morning at 9:15."
+    },
+    "groups": [
+        {
+            "id": "explorers",
+            "name": "The Explorers",
+            "iconType": "book",
+            "tags": [
+                "Kids (K - 5th)"
+            ],
+            "description": "Journeying through the Bible with fun activities, interactive crafts, and foundational lessons about God's love. We make learning scripture an exciting adventure!",
+            "room": "Room 101",
+            "colSpan": ""
+        },
+        {
+            "id": "vanguard",
+            "name": "The Vanguard",
+            "iconType": "users",
+            "tags": [
+                "Youth (6th - 12th)"
+            ],
+            "description": "Equipping the next generation to lead with faith. We tackle tough questions, build authentic friendships, and learn how to apply the Gospel to real teenage life.",
+            "room": "The Loft",
+            "colSpan": ""
+        },
+        {
+            "id": "trailblazers",
+            "name": "The Trailblazers",
+            "iconType": "globe",
+            "tags": [
+                "Young Adults",
+                "College / 20s"
+            ],
+            "description": "Navigating the transitions of early adulthood, new careers, and relationships while keeping our roots planted firmly in scripture.",
+            "room": "Room 204",
+            "colSpan": ""
+        },
+        {
+            "id": "navigators",
+            "name": "The Navigators",
+            "iconType": "community",
+            "tags": [
+                "Adults (30s - 50s)",
+                "Married & Single"
+            ],
+            "description": "Finding balance in the busy seasons of parenting, careers, and life through deep biblical study, shared wisdom, and mutual encouragement.",
+            "room": "Fellowship Hall B",
+            "colSpan": "lg:col-span-1 md:col-span-2"
+        },
+        {
+            "id": "summits",
+            "name": "The Summits",
+            "iconType": "sparkles",
+            "tags": [
+                "Seniors (60+)"
+            ],
+            "description": "A rich community of legacy builders sharing decades of faith. Our time is focused on faithful prayer, deep theological study, and caring for the broader church family. We have seen God's faithfulness through it all and love to study His word together.",
+            "room": "The Parlor",
+            "colSpan": "md:col-span-1 lg:col-span-1"
+        }
+    ]
+}

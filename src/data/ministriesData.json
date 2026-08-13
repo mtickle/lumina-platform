@@ -1,0 +1,56 @@
+{
+    "hero": {
+        "title": "Our Ministries",
+        "description": "Faith in action. Discover the many ways we are serving our community, supporting one another, and sharing God's love."
+    },
+    "ministries": [
+        {
+            "id": "food-pantry",
+            "title": "Food Pantry",
+            "iconType": "cart",
+            "description": "No one in our community should go hungry. Our food pantry provides fresh groceries, non-perishables, and household essentials to families in need every Saturday morning.",
+            "ctaText": "Volunteer or Donate",
+            "ctaLink": "/contact"
+        },
+        {
+            "id": "ramp-building",
+            "title": "Ramp Building",
+            "iconType": "tools",
+            "description": "We partner with local organizations to design and construct free, safe wheelchair ramps for the elderly and disabled in our community, restoring their freedom and mobility.",
+            "ctaText": "Join the Build Team",
+            "ctaLink": "/contact"
+        },
+        {
+            "id": "veterans",
+            "title": "Veterans Ministry",
+            "iconType": "shield",
+            "description": "A dedicated community of veterans supporting veterans. We provide a space for fellowship, prayer, PTSD resources, and practical assistance for those who have served our country.",
+            "ctaText": "Connect With Us",
+            "ctaLink": "/contact"
+        },
+        {
+            "id": "hispanic",
+            "title": "Ministerio Hispano",
+            "iconType": "globe",
+            "description": "Buscando a Dios juntos. We offer Spanish-language worship services, translated materials, bilingual Bible studies, and dedicated community support for our Spanish-speaking brothers and sisters.",
+            "ctaText": "Aprende Más",
+            "ctaLink": "/contact"
+        },
+        {
+            "id": "homebound",
+            "title": "Homebound & Shut-Ins",
+            "iconType": "home",
+            "description": "Bringing the church to those who cannot attend. Our visitation team provides regular home and hospital visits, delivers meals, serves communion, and prays with our homebound members.",
+            "ctaText": "Request a Visit",
+            "ctaLink": "/contact"
+        },
+        {
+            "id": "prison",
+            "title": "Prison Ministry",
+            "iconType": "lock",
+            "description": "Sharing the hope, forgiveness, and restorative grace of the Gospel with incarcerated men and women. We lead Bible studies inside local facilities and support families affected by incarceration.",
+            "ctaText": "Get Involved",
+            "ctaLink": "/contact"
+        }
+    ]
+}
