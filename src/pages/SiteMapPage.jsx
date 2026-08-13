@@ -1,6 +1,6 @@
 import React from 'react';
 import sitemapData from '@data/siteMapData.json';
-import SitemapSectionCard from '@cards/SitemapSectionCard';
+import SitemapSectionCard from '@cards/SiteMapSectionCard';
 
 const SitemapPage = () => {
     const { hero, sections } = sitemapData;
