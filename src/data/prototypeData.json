@@ -1,0 +1,51 @@
+{
+    "hero": {
+        "title": "About This Prototype",
+        "description": "A technical demonstration of a modern, fast, and scalable church website architecture."
+    },
+    "sections": [
+        {
+            "title": "The Core Stack",
+            "items": [
+                {
+                    "name": "React",
+                    "description": "Provides a modular, component-based user interface that makes updating individual pieces of the site seamless and keeps the codebase incredibly organized."
+                },
+                {
+                    "name": "Vite",
+                    "description": "A next-generation build tool that ensures highly optimized assets, keeping the final bundle size small and the page load times instant."
+                },
+                {
+                    "name": "Tailwind CSS",
+                    "description": "A utility-first CSS framework allowing for rapid, consistent, and fully responsive styling to ensure the site looks perfect on any device."
+                }
+            ]
+        },
+        {
+            "title": "Development Workflow",
+            "items": [
+                {
+                    "name": "AI-Assisted Architecture",
+                    "description": "The foundational React component structure, Tailwind CSS styling, and JSON data pipelines were pair-programmed using Google's Gemini AI. This modern workflow drastically accelerates prototyping, allowing the developer to focus on high-level architecture, user experience, and deployment strategy while maintaining clean, modular code."
+                }
+            ]
+        },
+        {
+            "title": "Architecture & Delivery",
+            "items": [
+                {
+                    "name": "Decoupled Static Data",
+                    "description": "Ministry information and schedules are separated from the layout using local JSON files. This provides maximum speed, easy version control, and zero database latency for static content."
+                },
+                {
+                    "name": "Progressive Web App (PWA)",
+                    "description": "Configured to support PWA capabilities, allowing the site to load quickly, provide offline support, and be installed directly to a user's mobile home screen."
+                },
+                {
+                    "name": "GitHub Pages Deployment",
+                    "description": "The entire application is built to be statically compiled and reliably deployed via GitHub Pages, minimizing infrastructure costs while maximizing uptime."
+                }
+            ]
+        }
+    ]
+}

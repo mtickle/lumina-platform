@@ -12,6 +12,7 @@ import SermonsPage from "@pages/SermonsPage";
 import SitemapPage from "@pages/SiteMapPage";
 import WorshipPage from "@pages/WorshipPage";
 import GivePage from "./pages/GivePage";
+import PrototypePage from "./pages/PrototypePage";
 
 import { BrowserRouter, Route, Routes } from "react-router-dom";
 
@@ -42,6 +43,7 @@ export default function App() {
           <Route path="sitemap" element={<SitemapPage />} />
           <Route path="worship" element={<WorshipPage />} />
           <Route path="give" element={<GivePage />} />
+          <Route path="prototype" element={<PrototypePage />} />
         </Route>
       </Routes>
     </BrowserRouter>

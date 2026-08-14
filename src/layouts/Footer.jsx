@@ -9,12 +9,11 @@ const Footer = () => {
             <div className="max-w-6xl mx-auto px-6 flex flex-col md:flex-row justify-between items-center gap-4 text-sm">
                 <p>&copy; {currentYear} Grace & Truth Fellowship. All rights reserved.</p>
                 <div className="flex gap-6">
-                    <Link to="/privacy" className="hover:text-white transition duration-200">
-                        Privacy Policy
+                    <Link to="/prototype" className="hover:text-white transition duration-200">
+                        About Prototype
                     </Link>
-                    <Link to="/terms" className="hover:text-white transition duration-200">
-                        Terms of Service
-                    </Link>
+                    <a href="#" className="hover:text-white transition duration-200">Privacy Policy</a>
+                    <a href="#" className="hover:text-white transition duration-200">Terms of Service</a>
                 </div>
             </div>
         </footer>
